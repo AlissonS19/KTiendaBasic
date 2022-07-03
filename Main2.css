@@ -1,0 +1,36 @@
+header{
+    border: 2px solid black;
+}
+header div{
+    border: 2px solid blue;
+    display: inline-block;
+}
+header li{
+    border: blueviolet 1px solid;
+    display: inline-block;
+}
+
+
+
+            /* MAIN */
+main{
+    border: springgreen 1px solid;
+    width: 100%;
+}
+
+
+/* ASIDE */
+aside{
+    border: 2px solid black;
+    display: inline-block;
+    width: 20%;
+}
+
+
+
+/* SECTION */
+section{
+    border: 2px solid black;
+    display: inline-block;
+    width: 78.5%;
+}
