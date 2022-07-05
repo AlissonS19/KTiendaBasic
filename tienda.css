@@ -7,9 +7,11 @@ nav form button{
 
 h3{
     justify-content: center;
+    color: #002c3e;
 }
 
 
+/*Contactanos*/
 .map-container {
     height: 230px;
     position: relative;
@@ -22,3 +24,12 @@ h3{
     width: 100%;
     position: absolute;
   }
+
+  #buttoncontactanos{
+      background-color: #002c3e;
+      width: 100px;
+  }
+
+.formcontact{
+    padding-top: 15px;
+}
