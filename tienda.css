@@ -33,3 +33,15 @@ h3{
 .formcontact{
     padding-top: 15px;
 }
+
+
+/*RECETAS*/
+#recetas{
+    margin: 2% 10%;
+    justify-content: center;
+}
+#recetas .card img{
+    height: 25%;
+    padding: 5px;
+    border-radius: 20px;
+}
